@@ -104,7 +104,6 @@ Expected KPI:
 - Wishlist
 - Cart
 - Purchase Conversion
----
 
 ## 📈 Expected Business Impact
 Expected purchase conversion:
@@ -123,7 +122,6 @@ Expected purchase conversion:
 
 ## 🛠 Tools
 - PowerPoint
-- Excel
 - User Interview
 - Product Analysis
 
@@ -142,3 +140,4 @@ Currently learning:
 - Python
 - Excel
 - Data Visualization
+- Business Process Improvement
